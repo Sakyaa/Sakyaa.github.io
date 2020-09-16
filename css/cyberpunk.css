@@ -11391,6 +11391,10 @@ figure.highlight .section {
     max-width: 960px;
     width: 960px;
   }
+  .is-3-column .container {
+    max-width: screen-widescreengap;
+    width: screen-widescreengap;
+  }
 }
 @media screen and (min-width: 769px), print {
   .is-sticky {
